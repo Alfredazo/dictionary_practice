@@ -7,5 +7,6 @@
         "case",
         "illustration"
     ],
-    "usage": "This is an example of a simple JSON file."
+    "usage": "This is an example of a simple JSON file.",
+    "number": 3
 }
