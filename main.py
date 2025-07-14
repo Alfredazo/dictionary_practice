@@ -22,3 +22,15 @@ print("Good Performance", dictionary.get("synonyms")[1])  # Output: ['sample', '
 # message = f"Good Performance {dictionary.get('synonyms')[1]}"
 # message_2 = "Good Performance {}".format(dictionary.get("synonyms")[1])
 # message_3 = "Good performance %s", dictionary.get("synonyms")[1]
+
+print(dictionary.get("word"))
+print(dictionary.get("definition"))
+print(dictionary.get("prt_of_speech",None))
+print(dictionary.get("synonyms"))
+print(dictionary.get("usage"))
+#print(dictionary.get("number"))
+number = dictionary.get("number",None)
+if number is None:
+    dictionary["number"]=7
+
+print(dictionary)
