@@ -1,0 +1,11 @@
+{
+    "word": "example",
+    "definition": "A thing characteristic of its kind or illustrating a general rule.",
+    "part_of_speech": "noun",
+    "synonyms": [
+        "instance",
+        "case",
+        "illustration"
+    ],
+    "usage": "This is an example of a simple JSON file."
+}

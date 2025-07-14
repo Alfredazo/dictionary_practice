@@ -1,0 +1,66 @@
+{
+    "dictionary": {
+        "languages": [
+            {
+                "name": "English",
+                "words": [
+                    {
+                        "word": "serendipity",
+                        "part_of_speech": "noun",
+                        "definition": "The occurrence of events by chance in a happy or beneficial way.",
+                        "examples": [
+                            "Finding the book was pure serendipity."
+                        ],
+                        "synonyms": [
+                            "chance",
+                            "fortune"
+                        ],
+                        "antonyms": [
+                            "misfortune"
+                        ]
+                    },
+                    {
+                        "word": "elucidate",
+                        "part_of_speech": "verb",
+                        "definition": "Make (something) clear; explain.",
+                        "examples": [
+                            "The teacher tried to elucidate the complex concept."
+                        ],
+                        "synonyms": [
+                            "clarify",
+                            "explain"
+                        ],
+                        "antonyms": [
+                            "confuse"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spanish",
+                "words": [
+                    {
+                        "word": "alegría",
+                        "part_of_speech": "sustantivo",
+                        "definition": "Sentimiento de placer producido por un acontecimiento favorable.",
+                        "examples": [
+                            "La noticia le dio mucha alegría."
+                        ],
+                        "synonyms": [
+                            "felicidad",
+                            "júbilo"
+                        ],
+                        "antonyms": [
+                            "tristeza"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "created_by": "GitHub Copilot",
+            "version": "1.0",
+            "last_updated": "2024-06-10"
+        }
+    }
+}

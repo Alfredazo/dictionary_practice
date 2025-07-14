@@ -1,0 +1,74 @@
+{
+    "languages": {
+        "romance": {
+            "spanish": {
+                "dictionary": {
+                    "words": [
+                        {
+                            "word": "libro",
+                            "meaning": "book",
+                            "examples": [
+                                "El libro está sobre la mesa.",
+                                "¿Dónde compraste el libro?"
+                            ]
+                        },
+                        {
+                            "word": "casa",
+                            "meaning": "house",
+                            "examples": [
+                                "Mi casa es grande.",
+                                "Vamos a la casa de Juan."
+                            ]
+                        }
+                    ]
+                }
+            },
+            "french": {
+                "dictionary": {
+                    "words": [
+                        {
+                            "word": "chat",
+                            "meaning": "cat",
+                            "examples": [
+                                "Le chat dort.",
+                                "J'ai un chat noir."
+                            ]
+                        },
+                        {
+                            "word": "livre",
+                            "meaning": "book",
+                            "examples": [
+                                "Ce livre est intéressant.",
+                                "Où est mon livre?"
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "germanic": {
+            "english": {
+                "dictionary": {
+                    "words": [
+                        {
+                            "word": "apple",
+                            "meaning": "a fruit",
+                            "examples": [
+                                "I ate an apple.",
+                                "The apple is red."
+                            ]
+                        },
+                        {
+                            "word": "house",
+                            "meaning": "a building for living",
+                            "examples": [
+                                "My house is blue.",
+                                "We built a new house."
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
